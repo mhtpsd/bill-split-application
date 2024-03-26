@@ -12,7 +12,7 @@ This application allows users to split bills among multiple people. Users can ad
 
 ## Live Application URL
 
-The application is hosted on Netlify and can be accessed at `<your-netlify-app-url>`.
+The application is hosted on Vercel and can be accessed at ``.
 
 ## Environment Setup and Configuration
 
