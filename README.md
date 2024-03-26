@@ -12,7 +12,7 @@ This application allows users to split bills among multiple people. Users can ad
 
 ## Live Application URL
 
-The application is hosted on Vercel and can be accessed at ``.
+The application is hosted on Vercel and can be accessed at `https://bill-split-application.vercel.app/`.
 
 ## Environment Setup and Configuration
 
